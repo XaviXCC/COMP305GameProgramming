@@ -9,27 +9,27 @@
 
 [2. Story & Setting [3](#section)](#section)
 
-[Playable Characters [3](#_Toc199320024)](#_Toc199320024)
+- [Playable Characters [3](#_Toc199320024)](#_Toc199320024)
 
 [3. Game Mechanics [4](#game-mechanics)](#game-mechanics)
 
 [Controls [4](#_Toc199320026)](#_Toc199320026)
 
-[• Weapon Types [4](#_Toc199320027)](#_Toc199320027)
+- [• Weapon Types [4](#_Toc199320027)](#_Toc199320027)
 
-[• Random Skills [4](#_Toc199320028)](#_Toc199320028)
+- [• Random Skills [4](#_Toc199320028)](#_Toc199320028)
 
-[• Random Events [5](#_Toc199320029)](#_Toc199320029)
+- [• Random Events [5](#_Toc199320029)](#_Toc199320029)
 
 [4. Art & Audio Style [6](#art-audio-style)](#art-audio-style)
 
-[Visual Style [6](#_Toc199320031)](#_Toc199320031)
+- [Visual Style [6](#_Toc199320031)](#_Toc199320031)
 
-[Sound Design [6](#_Toc199320032)](#_Toc199320032)
+- [Sound Design [6](#_Toc199320032)](#_Toc199320032)
 
 [5. Level Design [7](#level-design)](#level-design)
 
-[Game Modes [7](#_Toc199320034)](#_Toc199320034)
+- [Game Modes [7](#_Toc199320034)](#_Toc199320034)
 
 [6. Technical Specifications
 [7](#technical-specifications)](#technical-specifications)
@@ -103,8 +103,7 @@ through item descriptions and rare NPC encounters.**
 -   **The Pyromancer (Mage): Ranged AoE spells.**
 
 ![A screenshot of a video game AI-generated content may be
-incorrect.](vertopal_7cfdf2b0aff745e89d8d696309491e9e/media/image1.jpeg){width="5.767361111111111in"
-height="3.3261712598425195in"}
+incorrect.](vertopal_7cfdf2b0aff745e89d8d696309491e9e/media/image1.jpeg)
 
 ## 3. Game Mechanics
 
@@ -137,8 +136,7 @@ height="3.3261712598425195in"}
     -   **Can be swapped mid-run**
 
 ![A screenshot of a video game AI-generated content may be
-incorrect.](vertopal_7cfdf2b0aff745e89d8d696309491e9e/media/image2.jpeg){width="6.5in"
-height="1.99375in"}
+incorrect.](vertopal_7cfdf2b0aff745e89d8d696309491e9e/media/image2.jpeg)
 
 **Progression & Meta-Upgrades:**
 
@@ -159,8 +157,7 @@ height="1.99375in"}
     -   **Elite enemy ambushes**
 
 ![A screenshot of a video game AI-generated content may be
-incorrect.](vertopal_7cfdf2b0aff745e89d8d696309491e9e/media/image3.jpeg){width="5.784722222222222in"
-height="3.253908573928259in"}
+incorrect.](vertopal_7cfdf2b0aff745e89d8d696309491e9e/media/image3.jpeg)
 
 ## 4. Art & Audio Style
 
@@ -174,8 +171,7 @@ height="3.253908573928259in"}
 
 -   **Crunchy SFX (sword slashes, spell explosions)**
 
-![](vertopal_7cfdf2b0aff745e89d8d696309491e9e/media/image4.jpeg){width="6.5in"
-height="3.65625in"}
+![](vertopal_7cfdf2b0aff745e89d8d696309491e9e/media/image4.jpeg)
 
 ## 5. Level Design
 
@@ -218,5 +214,4 @@ feels fresh, rewarding quick reflexes and smart build choices.**
 <https://store.steampowered.com/app/2103140/_Magicraft/>
 
 ![A screenshot of a video game Description automatically
-generated](vertopal_7cfdf2b0aff745e89d8d696309491e9e/media/image5.png){width="5.819660979877515in"
-height="3.3402777777777777in"}
+generated](vertopal_7cfdf2b0aff745e89d8d696309491e9e/media/image5.png)
